@@ -53,16 +53,7 @@ Each file corresponds to a specific coding challenge.
 
 ---
 
-## 🛠 Technologies & Skills Demonstrated  
-
-- **Python 3.x Programming**  
-- **String manipulation & numeric processing**  
-- **Looping & conditional logic**  
-- **Dictionary / frequency counting**  
-- **Bitwise operations**  
-- **Modular and clean coding style**  
-- **Git & GitHub workflow**  
-- **LeetCode-style problem solving**  
+ 
 
 ---
 
@@ -109,8 +100,7 @@ Output: `8`
 ✔ Uploaded all **6 Python source files**  
 ✔ Maintained a clean and consistent naming structure  
 ✔ Added detailed documentation using this README  
-✔ Tested all programs thoroughly for correctness  
-✔ Ensured 100% error-free execution  
+ 
 
 ---
 
